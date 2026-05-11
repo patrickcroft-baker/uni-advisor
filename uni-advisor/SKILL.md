@@ -31,7 +31,7 @@ Run a structured interview. One question at a time — never a list. Cover:
 2. Which do they genuinely enjoy most — not what they're best at
 3. What their predicted or current grades are — and results in any prerequisite subjects (maths, science) at GCSE or equivalent
 4. What they think they want to do after university — even rough ideas count
-4. Whether they want to stay in their country or are open to going abroad
+5. Whether they want to stay in their country or are open to going abroad
 5. Specific universities they've already considered — and why
 6. Location preferences (city, campus, country)
 7. Any constraints (budget, proximity to home, other)
@@ -118,7 +118,7 @@ Identify which mode applies from context, or ask.
 - 1 reach (ambitious, below expected offer)
 - 2 targets (realistic with predicted grades)
 - 1 insurance (significantly lower requirement)
-- 1 wildcard (European option, or different course direction)
+- 1 wildcard (a different course direction within UCAS — e.g. Materials Science instead of Chemistry)
 
 **Check each choice:** entry requirements realistic ✓ | course content actually wanted ✓ | would genuinely attend ✓ | subject ranking known ✓ | visited or planning to ✓
 
@@ -136,6 +136,8 @@ Identify which mode applies from context, or ask.
 - Chemistry (Oxford) → **no written test** — interview and grades only
 - Always check the official university admissions page for the current year
 
+**UCAS Adjustment:** On Results Day, if the applicant meets and exceeds their firm offer's conditions, they can enter Adjustment — a short window to trade up to a more selective university if places are available. Worth flagging in advance for ambitious students.
+
 ### Mode 5: Personal Statement
 
 **Current format (2026 entry onwards — three structured questions):**
@@ -146,7 +148,7 @@ Identify which mode applies from context, or ask.
 | Q2: How have your studies prepared you? | 2–3 specific examples from qualifications, deeply reflected | 350 chars |
 | Q3: What else have you done to prepare? | Super-curricular activity — with reflection on what it taught you | 350 chars |
 
-Total: 4,000 characters across all three.
+Total: **4,000 characters OR 47 lines — whichever is hit first.** Heavy use of line breaks can hit 47 lines before 4,000 characters. Write in paragraphs.
 
 **The golden rule:** Q1 (why) → Q2 (how studying built it) → Q3 (how you went further). One coherent story.
 
@@ -165,7 +167,7 @@ Total: 4,000 characters across all three.
 
 **Science/engineering:** UK Chemistry Olympiad (RSC) | British Physics Olympiad | UKMT Senior Maths Challenge → BMO | Engineering Education Scheme | Nuffield Research Placements
 
-**Architecture:** Sketchbook of architectural observations (visit buildings, draw them, write critically about them) | Read: "The Architecture of Happiness" (de Botton), "Why Buildings Stand Up" (Salvadori)
+**Architecture:** Portfolio must show spatial thinking and visual intelligence — architectural sketches, life drawing, critical analysis of visited buildings, any design/making projects. A GCSE art folder is not enough. Sketchbook: visit significant buildings, draw analytically, write about what works and why. Read: "The Architecture of Happiness" (de Botton), "Why Buildings Stand Up" (Salvadori)
 
 **All subjects:** Read beyond the syllabus | MIT OpenCourseWare | 3Blue1Brown (maths), Veritasium (physics), NileRed (chemistry)
 
@@ -241,7 +243,7 @@ After every session, update `[VAULT]/uni-application.md`:
 
 **Germany:** Free at most public universities for all nationalities — but verify per state and institution. Exceptions: Baden-Württemberg charges non-EU students €1,500/semester across all its public universities (includes KIT/Karlsruhe). TU Munich (Bavaria) now charges non-EU students €2,000–3,000/semester for Bachelor's, €4,000–6,000 for Master's (introduced 2024). Other Bavarian and most other German state universities remain free. Semester admin fee: €100–400 regardless. Living costs €800–1,200/month. Blocked account ~€12k/year for visa. Most Bachelor's in German — English-taught Bachelor's exist but are fewer. Top free options: RWTH Aachen (engineering), Heidelberg, Humboldt Berlin, LMU Munich.
 
-**Netherlands:** €8–15k/year for UK students. 2,100+ English-taught programmes. Application via Studielink. Deadline: typically 1 April. Top: TU Delft (Architecture #1–3 globally, Chemical Engineering top 10), UvA, Utrecht, Eindhoven.
+**Netherlands:** €8–15k/year for UK students. 2,100+ English-taught programmes. Application via Studielink. Deadline: typically 1 April. Top: TU Delft (Architecture **#3 globally** QS 2026, Chemical Engineering top 10), UvA, Utrecht, Eindhoven.
 
 **Switzerland:** CHF 730/semester for all students — one of the cheapest in Europe regardless of nationality. ETH Zurich consistently top 10 globally (engineering, natural sciences, architecture). Highly competitive. Mix of German and English instruction.
 
