@@ -4,6 +4,8 @@ A Claude Code skill that acts as a personal university advisor. Helps you resear
 
 Built for UK Year 12/13 students applying via UCAS, with full coverage of European university options. Everything is embedded in a single file — no separate downloads needed.
 
+> **Scope:** This skill is built around the UK application system (UCAS, A-levels, UK universities + European alternatives). It works best for UK students. If you're outside the UK — applying to US, Australian, or other non-European universities — you'll find gaps in the process guidance.
+
 ---
 
 ## Install
@@ -27,7 +29,7 @@ That's it. On first use it will ask where to save your progress, then run throug
 ## What it does
 
 - **Profiles you** — one-time interview covering your subjects, interests, goals, and constraints
-- **Researches courses** — maps your A-levels to available degrees with specific entry requirements and rankings
+- **Researches courses** — maps your qualifications to available degrees with specific entry requirements and rankings (web search, not a hardcoded list)
 - **Compares universities** — subject rankings (not overall), NSS scores, graduate outcomes
 - **European options** — country-by-country breakdown including Germany (free tuition), TU Delft, ETH Zurich
 - **Shortlist strategy** — builds your UCAS 5 choices with an honest reach/target/safe split
