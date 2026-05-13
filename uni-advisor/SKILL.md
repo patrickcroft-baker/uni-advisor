@@ -21,7 +21,21 @@ This skill works for any student, any subject, any country. It builds a profile 
 2. If the user has placed a `uni-advisor-research.md` file in `[VAULT]`, read it — it may contain updated facts. Otherwise use the embedded knowledge base at the bottom of this skill.
 3. **Read** `[VAULT]/uni-application.md` if it exists. If not, run Profile Setup.
 4. Surface the current state in chat: where they are, what's been decided, what's still open.
-5. Ask what they want to work on today — one question, not a menu.
+5. **Present the session menu** — after surfacing current state, show this:
+
+```
+Here's what we can work on:
+
+1. Profile — build or update your profile (interests, grades, goals, constraints)
+2. Course Research — explore what courses match your interests and qualifications
+3. University Research — compare specific universities and check subject rankings
+4. European Options — fees, institutions, and deadlines by country
+5. Shortlist & Strategy — build your UCAS 5 choices and plan your application
+6. Personal Statement — draft or refine your 2026-format statement
+7. Interview Prep — prepare for an upcoming interview
+
+What would you like to do?
+```
 
 ---
 
