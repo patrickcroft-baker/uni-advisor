@@ -23,19 +23,32 @@ Every conversation inside that project will have the advisor ready to go. State 
 
 ### Option 2 — Claude Code skill (requires Claude Code)
 
-One command:
+**Step 1 — Install files:**
 
 ```bash
-mkdir -p ~/.claude/skills/uni-advisor && curl -o ~/.claude/skills/uni-advisor/SKILL.md https://raw.githubusercontent.com/PatrickCroft-Baker/uni-advisor/main/uni-advisor/SKILL.md
+mkdir -p ~/.claude/skills/uni-advisor
+BASE="https://raw.githubusercontent.com/PatrickCroft-Baker/uni-advisor/main/uni-advisor"
+curl -o ~/.claude/skills/uni-advisor/SKILL.md "$BASE/SKILL.md"
+curl -o ~/.claude/skills/uni-advisor/reference-template.md "$BASE/reference-template.md"
+curl -o ~/.claude/skills/uni-advisor/generate-uni-pdf.py "$BASE/generate-uni-pdf.py"
+curl -o ~/.claude/skills/uni-advisor/setup.sh "$BASE/setup.sh"
 ```
 
-Then open Claude Code and type:
+**Step 2 — Run setup** (installs `fpdf2` and downloads fonts for PDF generation):
+
+```bash
+bash ~/.claude/skills/uni-advisor/setup.sh
+```
+
+**Step 3 — Start:**
 
 ```
 /uni-advisor
 ```
 
 On first use it will ask where to save your progress, then run through a short profile interview. After that it picks up where you left off every session, with full file tracking.
+
+> **PDF reports** require Python 3 and are set up automatically by `setup.sh`. If you skip setup, all modes still work — you just won't be able to generate PDF research briefs.
 
 ---
 

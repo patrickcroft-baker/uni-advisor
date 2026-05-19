@@ -96,23 +96,29 @@ Identify which mode applies from context, or ask.
 
 ### Mode 3: European Options
 
-**Key facts:**
+> ⚠ **Never quote fees for a specific institution from memory or from the table below.** The table shows country-level ranges for public universities only. Private institutions (IE Madrid, Bocconi, ESADE) charge 5–10x more. Always web search: `"[university name] tuition fees international students [year]"` before stating any figure. Always split private vs public explicitly.
 
-| Country | Fees for UK students | Language | Standout |
-|---------|---------------------|----------|---------|
-| Germany | Free at most public unis + €100–400 semester fee. Exceptions: Baden-Württemberg €1,500/semester; TU Munich €2,000–3,000/semester — verify per institution | Many English at Master's; fewer at Bachelor's | RWTH Aachen, Heidelberg, Humboldt Berlin |
-| Netherlands | €8,000–15,000/year | 2,100+ English programmes | TU Delft (#3 Architecture globally, QS 2026) |
+**Country-level context (public universities — verify all specific institutions):**
+
+| Country | Public fees (UK students) | Language | Notable institutions |
+|---------|--------------------------|----------|---------------------|
+| Germany | Free at most public unis + €100–400 semester fee. Exceptions: Baden-Württemberg €1,500/semester; TU Munich €2,000–3,000/semester | Many English at Master's; fewer at Bachelor's | RWTH Aachen, Heidelberg, Humboldt Berlin |
+| Netherlands | €8,000–15,000/year | 2,100+ English programmes | TU Delft, Erasmus Rotterdam, Maastricht |
 | Switzerland | ~CHF 730/semester **for everyone** | Mix German/English | ETH Zurich (world top 10) |
 | Sweden | €7,500–12,000/year | Strong English catalogue | KTH Royal Institute, Chalmers |
 | Denmark | €6,000–16,000/year | Strong English | DTU, Copenhagen |
 | France | ~€3,000/year public | French required at undergrad | Sciences Po, École Polytechnique |
-| Spain | ~€1,000–3,500/year public | Spanish/Catalan; some English programmes | IE University (Madrid/Segovia), ESADE, Carlos III |
+| Spain | ~€1,000–3,500/year **public only** | Spanish/Catalan; some English programmes | Carlos III — private: IE Madrid (€20k+), ESADE (verify) |
+
+**Private institutions to flag** (verify fees via web search before quoting any figure):
+- **Bocconi** (Milan) — world-class business school, private
+- **IE Madrid** — globally ranked business school, private
+- **ESADE** (Barcelona) — strong business/law, private
+- **Rotterdam School of Management** (Erasmus) — strong, English-taught, Netherlands public fees apply
 
 **Post-Brexit reality:** UK students = non-EU international students in all European countries. Fee exception: Switzerland (~CHF 730/semester for everyone).
 
-**UK rejoining Erasmus+:** Confirmed from January 2027 — improves exchange options but doesn't change fee status for full degrees.
-
-**Always flag:** Germany (free at most public unis — verify per state/institution), ETH Zurich (~CHF 730/semester, top 10 globally), and any country aligned with the user's confirmed interests.
+**Always flag:** Germany (free at most public unis — verify per state/institution), ETH Zurich (~CHF 730/semester, top 10 globally), and institutions aligned with the user's confirmed course direction.
 
 **European application checklist:**
 - Verify programme is English-taught (or confirm language plan)
@@ -124,6 +130,8 @@ Identify which mode applies from context, or ask.
 **Deadlines:** January–April for September intake — apply simultaneously with UCAS.
 
 ### Mode 4: Shortlist and Strategy
+
+> **Gate:** Do not build a shortlist without a grade anchor. "I'll do well" is not a grade. If grades are unconfirmed, ask: "Even a rough direction works — expecting A/A* or more like A/B? That changes which universities are realistic." Accept a directional answer and proceed. Do not shortlist without one.
 
 **UCAS 5 choices — recommended split:**
 
@@ -201,6 +209,21 @@ Three structured questions. Total: **4,000 characters OR 47 lines — whichever 
 3. Ask the user to explain their personal statement as if speaking to a tutor — probe it
 4. Run 2–3 subject-specific questions
 5. Give direct feedback: strong reasoning, silences, retreating to facts instead of thinking
+
+### Mode 7: Post-Results
+
+**First: map all offers.** Before advising on anything, ask — even if the user only mentioned UK results: "Do you have any decisions or deadlines from European universities?" List UK UCAS + European offers side-by-side before giving any guidance.
+
+**Scenario A — Grades exceeded firm offer (Adjustment):**
+Adjustment is exactly 5 calendar days from Results Day morning. The firm offer is NOT cancelled during Adjustment — it's an automatic backup if Adjustment fails. Act same day. Calling script: "I got [grades] in [subjects]. My firm offer needed [conditions] but I've exceeded them. Do you have places in [course]? My UCAS ref is [X]."
+
+**Scenario B — Missed both offers (Clearing):**
+Clearing opens midday Results Day. Best Russell Group places vanish in 24–48 hours. Reframe first: Clearing is not failure — strong universities have Clearing places every year. Key steps: activate Clearing in UCAS Track (manual toggle — not automatic), build a call list, call universities directly. Calling script: "I got [grades] in [subjects]. I'm interested in [course]. Do you have places? My UCAS ref is [X]." **Activating Clearing cancels the insurance offer permanently — only activate when committed.**
+
+**Scenario C — European results:**
+IE Madrid and Bocconi decisions may arrive before UK Results Day (IE Madrid: rolling; Bocconi: typically mid-July). If a European deadline arrives before results, advise the user to email requesting a deadline extension. After Results Day: email European universities same day with final grades. European offers are conditional — missing the grade condition means rejection with no insurance equivalent.
+
+**Scenario D — No offers:** UCAS Extra (Feb–Jun) if still within cycle. Full reapplication next cycle if not.
 
 ---
 
