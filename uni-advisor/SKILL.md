@@ -50,6 +50,23 @@ Any field that is TBC, empty, or too vague → add to gaps list with one-line no
 ```
 Next step: [next_action from profile]
 
+--- Application Progress ---
+
+Exploring:
+| University | Course | Country | Notes |
+|-----------|--------|---------|-------|
+[pull Exploring table from uni-application.md — show all rows, or "None yet" if empty]
+
+Shortlist:
+| University | Course | Country | Type | Entry req | Status |
+|-----------|--------|---------|------|-----------|--------|
+[pull Working Shortlist table from uni-application.md — show all rows, or "Not started" if empty]
+
+Personal Statement: [status from profile]
+Open Days: [any booked — or "None booked"]
+
+---
+
 Timeline:
 - [UCAS deadline name]: [date] ([N days away — URGENT/SOON/UPCOMING])
 
